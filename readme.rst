@@ -4,12 +4,12 @@ Aplikasi web sederhana untuk mengelola data produk beserta variasi
 warna dan ukurannya, dibangun dengan CodeIgniter 3.
 
 ## Fitur
-- List Produk
-- Tambah Produk
-- Detail Produk
-- Edit Produk
-- Hapus Produk
-- Tambah/Edit Warna & Ukuran
+List Produk
+Tambah Produk
+Detail Produk
+Edit Produk
+Hapus Produk
+Tambah/Edit Warna & Ukuran
 
 ## Teknologi
 - PHP 8
